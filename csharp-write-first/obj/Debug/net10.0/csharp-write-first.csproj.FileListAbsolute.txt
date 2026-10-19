@@ -1,0 +1,15 @@
+C:\Users\alexa\Desktop\FreeCodeCampCSharp\csharp-write-first\bin\Debug\net10.0\csharp-write-first.exe
+C:\Users\alexa\Desktop\FreeCodeCampCSharp\csharp-write-first\bin\Debug\net10.0\csharp-write-first.deps.json
+C:\Users\alexa\Desktop\FreeCodeCampCSharp\csharp-write-first\bin\Debug\net10.0\csharp-write-first.runtimeconfig.json
+C:\Users\alexa\Desktop\FreeCodeCampCSharp\csharp-write-first\bin\Debug\net10.0\csharp-write-first.dll
+C:\Users\alexa\Desktop\FreeCodeCampCSharp\csharp-write-first\bin\Debug\net10.0\csharp-write-first.pdb
+C:\Users\alexa\Desktop\FreeCodeCampCSharp\csharp-write-first\obj\Debug\net10.0\csharp-write-first.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Desktop\FreeCodeCampCSharp\csharp-write-first\obj\Debug\net10.0\csharp-write-first.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\FreeCodeCampCSharp\csharp-write-first\obj\Debug\net10.0\csharp-write-first.AssemblyInfo.cs
+C:\Users\alexa\Desktop\FreeCodeCampCSharp\csharp-write-first\obj\Debug\net10.0\csharp-write-first.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\FreeCodeCampCSharp\csharp-write-first\obj\Debug\net10.0\csharp-write-first.sourcelink.json
+C:\Users\alexa\Desktop\FreeCodeCampCSharp\csharp-write-first\obj\Debug\net10.0\csharp-write-first.dll
+C:\Users\alexa\Desktop\FreeCodeCampCSharp\csharp-write-first\obj\Debug\net10.0\refint\csharp-write-first.dll
+C:\Users\alexa\Desktop\FreeCodeCampCSharp\csharp-write-first\obj\Debug\net10.0\csharp-write-first.pdb
+C:\Users\alexa\Desktop\FreeCodeCampCSharp\csharp-write-first\obj\Debug\net10.0\csharp-write-first.genruntimeconfig.cache
+C:\Users\alexa\Desktop\FreeCodeCampCSharp\csharp-write-first\obj\Debug\net10.0\ref\csharp-write-first.dll
